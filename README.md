@@ -46,6 +46,18 @@ This problem falls under the category of **combinatorial optimization** and is s
 
 ---
 
+## ✅ Optimization Results
+
+| Location | Status               |
+|----------|----------------------|
+| L1       | Not Optimal Location |
+| L2       | ✅ Optimal Location   |
+| L3       | Not Optimal Location |
+| L4       | Not Optimal Location |
+| L5       | Not Optimal Location |
+
+---
+
 ## 🛠️ Tools and Libraries
 
 | Tool / Library | Description                                                                 |
